@@ -1,0 +1,24 @@
+{
+  "name": "render-gists-comments",
+  "version": "1.0.0",
+  "description": "Fetch all a user's gists and their comments, and render them nicely.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "gist",
+    "comments",
+    "markdown"
+  ],
+  "author": "Ahmed Fasih",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fasiha/render-gists-comments.git"
+  },
+  "license": "Unlicese",
+  "dependencies": {
+    "node-fetch": "^1.7.3"
+  }
+}
